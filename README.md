@@ -1,4 +1,4 @@
-# gpts.soundai.com
+# GPTs Find gpts.soundai.com
 汇聚全球最全GPTs应用，GPTs最新讯息一查便知。
 Gather the most comprehensive applications of GPTs worldwide, and get the latest information about GPTs with just one click.
 
